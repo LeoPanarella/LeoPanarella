@@ -1,7 +1,8 @@
 Olá, eu sou Leonardo Panarella
 
-- 📚Formado em Analise e Desenvolvimento de Sistemas
-- 🔭No momento, busco minha primeira oportunidade na area de tecnologia, com foco em me tornar um desenvolvedor back-end
-- 🌱 Estudando Java e Python
-- 📫Contate-me no email: leopanarella10@gmail.com
+☕ Desenvolvedor Java | Spring Boot & APIs RESTful
+🚀 Criando soluções de backend escaláveis e performáticas
+🌐 Explorando deploys na AWS e princípios de arquitetura limpa
+📚 Apaixonado por aprendizado contínuo, código limpo e boas práticas
+📫Contate-me no email: leopanarella10@gmail.com
 
