@@ -1,8 +1,13 @@
-Olá, eu sou Leonardo Panarella
+## 👋 Olá! Eu sou o Leonardo Panarella
 
--☕ Desenvolvedor Java | Spring Boot & APIs RESTful
--🚀 Criando soluções de backend escaláveis e performáticas
--🌐 Explorando deploys na AWS e princípios de arquitetura limpa
--📚 Apaixonado por aprendizado contínuo, código limpo e boas práticas
--📫Contate-me no email: leopanarella10@gmail.com
+☕ Desenvolvedor Java | Spring Boot & APIs RESTful  
+🐍 Python | TensorFlow & FastAPI  
+🚀 Backend escalável e performático  
+🌐 AWS & arquitetura limpa  
+📚 Apaixonado por código limpo e aprendizado contínuo
 
+### 📌 Tecnologias
+- Java, Spring Boot, MySQL
+- Python, TensorFlow, FastAPI
+- REST APIs, Docker
+- AWS, Clean Architecture
