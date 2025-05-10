@@ -1,4 +1,4 @@
-<h2 align="left">☕ Leonardo Panarella Neto</h2>
+<h2 align="left">☕ Leonardo Panarella </h2>
 
 ###
 
