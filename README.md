@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">☕ Desenvolvedor Java | Spring Boot & APIs RESTful<br><br>Sou desenvolvedor back-end com foco em Java, utilizando Spring Boot para a criação de APIs RESTful modernas e bem estruturadas. Também trabalho com Python, explorando bibliotecas como TensorFlow para soluções de machine learning e FastAPI para o desenvolvimento de aplicações rápidas e eficientes. Tenho como prioridade construir sistemas escaláveis e performáticos, aplicando conceitos de arquitetura limpa e utilizando recursos da AWS. Acredito no poder de um código limpo, legível e de fácil manutenção, e estou em constante busca por aprendizado e evolução na área de tecnologia.</p>
+<p align="left"> DESENVOLVEDOR JAVA | SPRING BOOT & APIs RESTful<br><br>Sou desenvolvedor back-end com foco em Java, utilizando Spring Boot para a criação de APIs RESTful modernas e bem estruturadas. Também trabalho com Python, explorando bibliotecas como TensorFlow para soluções de machine learning e FastAPI para o desenvolvimento de aplicações rápidas e eficientes. Tenho como prioridade construir sistemas escaláveis e performáticos, aplicando conceitos de arquitetura limpa e utilizando recursos da AWS. Acredito no poder de um código limpo, legível e de fácil manutenção, e estou em constante busca por aprendizado e evolução na área de tecnologia.</p>
 
 ###
 
